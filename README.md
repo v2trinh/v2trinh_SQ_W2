@@ -2,6 +2,8 @@
 
 ## Setup and Interaction Instructions
 
+After opening the sketch, use the arrow keys or A/D to move the character left and right through the scene. Press the Up Arrow or W key to jump onto platforms and navigate the environment.
+
 **Controls:**
 
 - Move left/right: Arrow Keys or A/D
